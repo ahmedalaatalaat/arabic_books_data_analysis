@@ -9,4 +9,4 @@
 ![plotly_version](https://img.shields.io/badge/Plotly-v5.13.0-3F4F75?style=for-the-badge&logo=Plotly)
 
 # Arabic books analysis from goodreads
-In this project I have tried to practice my data analysis skills by getting data from internet clean it make it ready for analysis then came with some questions that may be usfuel in the bussines 
+In this project I have tried to practice my data analysis skills by getting data from the internet clean it makes it ready for analysis then came up with some questions that may be useful in the business

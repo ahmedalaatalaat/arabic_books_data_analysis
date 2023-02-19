@@ -20,7 +20,9 @@ In this project I have tried to practice my data analysis skills by getting data
 - Phase 3: Data Analysis and Visualization
 
 ## Website
-Live Demo: https://www.ahmedel-kady.com/jobs_project/jobs/
+Live Demo (from the books perspective): https://www.ahmedel-kady.com/books_project/books_perspective/
+
+Live Demo (from the authors perspective): https://www.ahmedel-kady.com/books_project/books_perspective/
 
 
 ## 💾 Phase 1 Data Collection:

@@ -34,7 +34,7 @@ In this phase, I started with over 30,000 book titles. However, after the initia
 
 
 ## 📊 Data Analysis and Visualization:
-In this phase, I used Plotly to visualize a group of questions that I had selected to be answered with the data.
+In this phase, I used Plotly to visualize a group of questions that I had selected to be answered with the data. I decided to split the analysis into two parts: the first part focused on the analysis and visualization from the perspective of the books, while the second part focused on the analysis and visualization from the perspective of the authors' data.
 
 ## 📝 License
 

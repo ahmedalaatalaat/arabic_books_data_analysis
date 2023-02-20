@@ -22,7 +22,11 @@ In this project I have tried to practice my data analysis skills by getting data
 ## Website
 Live Demo (from the books perspective): https://www.ahmedel-kady.com/books_project/books_perspective/
 
+![demo_image](https://ahmedel-kady.com/media/images/project_2.PNG)
+
 Live Demo (from the authors perspective): https://www.ahmedel-kady.com/books_project/books_perspective/
+
+![demo_image](https://ahmedel-kady.com/media/images/project_3.PNG)
 
 
 ## 💾 Phase 1 Data Collection:
